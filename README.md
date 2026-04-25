@@ -88,3 +88,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 *CityPilot AI — Smart, effortless travel planning.*
 Group name:Mind Crafters Timing:-8:55am
+https://github.com/01chaitanyas-stack/24-Mind-Crafters-.git
