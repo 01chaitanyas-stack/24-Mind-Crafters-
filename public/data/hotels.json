@@ -1,0 +1,58 @@
+{
+  "vineyard": {
+    "budget": [{"name":"Greenstones Boutique","price":"₹2500–4000"},{"name":"Treebo Trend Sapphire","price":"₹2000–3000"},{"name":"Hotel Cool Palace","price":"₹1500–2500"}],
+    "midrange": [{"name":"Little Cove Resort","price":"₹3500–6000"},{"name":"Mango Leaf Resort","price":"₹4000–7000"},{"name":"Freesia Resort","price":"₹4000–6500"}],
+    "premium": [{"name":"The Source at Sula","price":"₹9000–14000"},{"name":"Beyond by Sula","price":"₹10000+"},{"name":"Aria Resort & Spa","price":"₹8000–15000"}]
+  },
+  "centralTemples": {
+    "budget": [{"name":"Hotel Panchavati Yatri","price":"₹1200–2500"},{"name":"Shanti Inn","price":"₹800–1500"},{"name":"Hotel Sita Bhavan","price":"₹600–1200"}],
+    "midrange": [{"name":"Panchavati Elite Inn","price":"₹1800–3000"},{"name":"Hotel Raahgir","price":"₹1500–2500"},{"name":"Hotel Abhishek","price":"₹1200–2000"}],
+    "premium": [{"name":"Courtyard by Marriott Nashik","price":"₹6000–9000"},{"name":"Express Inn","price":"₹5000–9000"},{"name":"The Gateway Hotel","price":"₹6000–10000"}]
+  },
+  "otherTemples": {
+    "budget": [{"name":"Hotel Manasi","price":"₹750–1200"},{"name":"Local lodges","price":"₹800–1500"},{"name":"Treebo Budget Hotels","price":"₹1500–2500"}],
+    "midrange": [{"name":"Hotel Suresh Plaza","price":"₹1200–2000"},{"name":"Hotel Three Leaves","price":"₹3000–4500"},{"name":"Little Cove Resort","price":"₹3500–6000"}],
+    "premium": [{"name":"Aria Resort & Spa","price":"₹8000–15000"},{"name":"Express Inn","price":"₹5000–9000"},{"name":"Courtyard by Marriott","price":"₹6000–9000"}]
+  },
+  "trimbakTrek": {
+    "budget": [{"name":"Maheshwari Bhakt Niwas","price":"₹600–800"},{"name":"Hotel Dhruv Palace","price":"₹800–1100"},{"name":"Budget Lodges","price":"₹1000–2000"}],
+    "midrange": [{"name":"Hotel Radhika Inn","price":"₹2500–3000"},{"name":"Hotel Dwaraka","price":"₹2200–3000"},{"name":"Hotel Sai Yatri","price":"₹3000–4000"}],
+    "premium": [{"name":"The Gateway Hotel","price":"₹6400–12000"},{"name":"Parnakuti Villa","price":"₹15000+"},{"name":"Resort stays","price":"₹6000+"}]
+  },
+  "fortsNature": {
+    "budget": [{"name":"Local lodges","price":"₹800–1500"},{"name":"Village stays","price":"₹1000–2000"},{"name":"Dharamshalas","price":"₹500–1000"}],
+    "midrange": [{"name":"MTDC Resorts","price":"₹2500–4000"},{"name":"Local hotels","price":"₹2000–3500"},{"name":"Highway hotels","price":"₹2500–4000"}],
+    "premium": [{"name":"Nature resorts","price":"₹5000–9000"},{"name":"Private villas","price":"₹7000+"},{"name":"Eco resorts","price":"₹6000–10000"}]
+  },
+  "damWaterfall": {
+    "budget": [{"name":"Treebo Sapphire","price":"₹2000–3000"},{"name":"Hotel Cool Palace","price":"₹1500–2500"},{"name":"Budget city stays","price":"₹2000–3500"}],
+    "midrange": [{"name":"Regenta Resort Soma Vine Village","price":"₹5000–7000"},{"name":"Little Cove Resort","price":"₹3500–6000"},{"name":"Mango Leaf Resort","price":"₹4000–7000"}],
+    "premium": [{"name":"Aria Resort & Spa","price":"₹8000–15000"},{"name":"Beyond by Sula","price":"₹10000+"},{"name":"The Source at Sula","price":"₹9000–14000"}]
+  },
+  "museums": {
+    "budget": [{"name":"Hotel Vaishali","price":"₹1500–2500"},{"name":"Hotel Grand Ashwin","price":"₹2000"},{"name":"Budget lodges","price":"₹1500–3000"}],
+    "midrange": [{"name":"Ibis Nashik","price":"₹3000–5000"},{"name":"Ginger Nashik","price":"₹2500–4000"},{"name":"Hotel Express Inn","price":"₹4000–6000"}],
+    "premium": [{"name":"Express Inn","price":"₹5000–9000"},{"name":"Courtyard by Marriott","price":"₹6000–9000"},{"name":"Gateway Hotel","price":"₹6000–10000"}]
+  },
+  "chandwad": {
+    "budget": [{"name":"Dharamshalas","price":"₹500–1000"},{"name":"Local lodges","price":"₹800–1500"},{"name":"Budget stays","price":"₹1000–2000"}],
+    "midrange": [{"name":"Small hotels","price":"₹2000–3500"},{"name":"Highway hotels","price":"₹2500–4000"},{"name":"Nearby Nashik stays","price":"₹3000–5000"}],
+    "premium": [{"name":"Resorts near Nashik","price":"₹6000–10000"},{"name":"Villas","price":"₹7000+"},{"name":"Premium stays","price":"₹8000+"}]
+  },
+  "birdSanctuary": {
+    "budget": [{"name":"Local lodges","price":"₹800–1500"},{"name":"Village stays","price":"₹1000–2000"},{"name":"Dharamshalas","price":"₹500–1000"}],
+    "midrange": [{"name":"MTDC stays","price":"₹2500–4000"},{"name":"Small resorts","price":"₹3000–5000"},{"name":"Highway hotels","price":"₹2500–4000"}],
+    "premium": [{"name":"Eco resorts","price":"₹5000–9000"},{"name":"Nature retreats","price":"₹6000–10000"},{"name":"Private villas","price":"₹7000+"}]
+  },
+  "placeToZone": {
+    "sula":"vineyard","soma":"vineyard","york":"vineyard",
+    "kalaram":"centralTemples","sitagumpha":"centralTemples","ramkund":"centralTemples","gangaghat":"centralTemples","kapaleshwar":"centralTemples",
+    "muktidham":"otherTemples","navshya":"otherTemples","someshwar":"otherTemples","iskcon":"otherTemples","jainmandir":"otherTemples",
+    "trimbak":"trimbakTrek","anjneri":"trimbakTrek","brahmagiri":"trimbakTrek","dugarwadi":"trimbakTrek",
+    "harihar":"fortsNature","mangi":"fortsNature","tringalwadi":"fortsNature",
+    "gangapurdam":"damWaterfall","someshwar_fall":"damWaterfall",
+    "pandavleni":"museums","coinmuseum":"museums","artillery":"museums","citymall":"museums","deolali":"museums","infantjesus":"museums",
+    "chandreshwar":"chandwad","renuka":"chandwad","ichhapurti":"chandwad","rangmahal":"chandwad",
+    "nandur":"birdSanctuary"
+  }
+}

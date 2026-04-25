@@ -1,0 +1,210 @@
+{
+  "byLocation": {
+    "panchavati": {
+      "low": [{"name":"Annapoorna","price":"₹100–200"},{"name":"Shree Krishna Bhojanalaya","price":"₹80–150"},{"name":"Sai Prasad Dining","price":"₹100–180"}],
+      "medium": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Divtya Budhlya Wada","price":"₹250–400"},{"name":"Hotel Panchavati Gaurav","price":"₹300–500"}],
+      "high": [{"name":"Dhaba Nashik","price":"₹400–800"},{"name":"Spice Route","price":"₹500–900"},{"name":"RadhaKrishna Restaurant","price":"₹400–700"}]
+    },
+    "cbs": {
+      "low": [{"name":"Local Street Food","price":"₹80–150"},{"name":"Vada Pav Stall","price":"₹50–100"},{"name":"Sai Snacks Center","price":"₹100–150"}],
+      "medium": [{"name":"Hotel Panchavati","price":"₹200–350"},{"name":"Utsav Restaurant","price":"₹250–400"},{"name":"Veg Aroma","price":"₹200–350"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"Hotel Express Inn Dining","price":"₹600–1000"}]
+    },
+    "shalimar": {
+      "low": [{"name":"Street Food Junction","price":"₹80–150"},{"name":"Tea & Snacks Stall","price":"₹50–100"},{"name":"Quick Bites Center","price":"₹100–150"}],
+      "medium": [{"name":"Hotel Utsav","price":"₹250–400"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Shivam Restaurant","price":"₹200–400"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Dhaba Nashik","price":"₹400–800"},{"name":"The Sidewalk","price":"₹600–1000"}]
+    },
+    "nashik city": {
+      "low": [{"name":"Sai Chinese Corner","price":"₹100–200"},{"name":"Local Street Food","price":"₹80–150"},{"name":"Shree Datta Snacks","price":"₹100–150"}],
+      "medium": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Hotel Utsav","price":"₹250–400"},{"name":"Spice Garden","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Sidewalk","price":"₹600–1000"}]
+    },
+    "mumbai naka": {
+      "low": [{"name":"Local Dhaba","price":"₹100–150"},{"name":"Street Snacks","price":"₹80–120"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Hotel Rama Krishna","price":"₹200–350"},{"name":"Veg Delight","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Grill House","price":"₹600–1000"}]
+    },
+    "dwarka": {
+      "low": [{"name":"Street Food Vendors","price":"₹80–150"},{"name":"Snack Corner","price":"₹50–100"},{"name":"Tea Point","price":"₹50–100"}],
+      "medium": [{"name":"Hotel Dwarka Dining","price":"₹200–350"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Family Restaurant","price":"₹250–400"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Dhaba Nashik","price":"₹400–800"},{"name":"Premium Dine","price":"₹600–900"}]
+    },
+    "college road": {
+      "low": [{"name":"Food Stalls","price":"₹100–200"},{"name":"Fast Food Cart","price":"₹80–150"},{"name":"Snack Hub","price":"₹100–150"}],
+      "medium": [{"name":"Cafe Bliss","price":"₹200–400"},{"name":"Veg Delight","price":"₹250–400"},{"name":"Utsav Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Sidewalk","price":"₹600–1000"},{"name":"Spice Route","price":"₹500–900"}]
+    },
+    "canada corner": {
+      "low": [{"name":"Street Snacks","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Fast Food Cart","price":"₹100–150"}],
+      "medium": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Cafe Corner","price":"₹250–400"},{"name":"Family Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Sidewalk","price":"₹600–1000"}]
+    },
+    "gangapur road": {
+      "low": [{"name":"MTDC Snack Center","price":"₹50–150"},{"name":"Roadside Stalls","price":"₹50–120"},{"name":"Local Dhaba","price":"₹100–150"}],
+      "medium": [{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"The Cobble Street","price":"₹300–500"},{"name":"Curry Leaves","price":"₹250–450"}],
+      "high": [{"name":"Little Italy","price":"₹600–1000"},{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "gangapur": {
+      "low": [{"name":"MTDC Snack Center","price":"₹50–150"},{"name":"Roadside Stalls","price":"₹50–120"},{"name":"Local Dhaba","price":"₹100–150"}],
+      "medium": [{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"The Cobble Street","price":"₹300–500"},{"name":"Curry Leaves","price":"₹250–450"}],
+      "high": [{"name":"Little Italy","price":"₹600–1000"},{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "trimbak": {
+      "low": [{"name":"Trimurthy Bhojanalaya","price":"₹100–180"},{"name":"Shri Prasad Bhojanalay","price":"₹120–200"},{"name":"Shree Krishna Pure Veg","price":"₹100–200"}],
+      "medium": [{"name":"Hari Om Dhaba","price":"₹200–400"},{"name":"Om Gurudev Dining","price":"₹150–250"},{"name":"Pangat Bhojanalaya","price":"₹150–250"}],
+      "high": [{"name":"Dhruv Palace Restaurant","price":"₹400–600"},{"name":"Kesari Nandan","price":"₹200–400"},{"name":"Hotel Ganga Pure Veg","price":"₹300–500"}]
+    },
+    "anjneri": {
+      "low": [{"name":"Roadside Stalls","price":"₹50–150"},{"name":"Tea Shops","price":"₹50–100"},{"name":"Snack Vendors","price":"₹80–120"}],
+      "medium": [{"name":"Hills & Heaven","price":"₹200–400"},{"name":"Trimbak Dhaba","price":"₹150–300"},{"name":"Green Valley Restaurant","price":"₹200–350"}],
+      "high": [{"name":"Hotel View Point","price":"₹300–500"},{"name":"Family Garden Restaurant","price":"₹300–600"},{"name":"Resort Dining","price":"₹400–700"}]
+    },
+    "deolali": {
+      "low": [{"name":"Street Food Vendors","price":"₹50–100"},{"name":"Local Tea Shops","price":"₹50–120"},{"name":"Sai Snacks","price":"₹80–150"}],
+      "medium": [{"name":"Hariyali Restaurant","price":"₹150–300"},{"name":"Rasoi Restaurant","price":"₹200–350"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Spice Route","price":"₹400–700"},{"name":"Hotel Express Dine","price":"₹500–800"},{"name":"The Taste Factory","price":"₹400–700"}]
+    },
+    "nashik road": {
+      "low": [{"name":"Railway Food Stall","price":"₹80–150"},{"name":"Street Food Vendors","price":"₹50–120"},{"name":"Sai Snacks","price":"₹100–150"}],
+      "medium": [{"name":"Hotel Swaraj","price":"₹200–300"},{"name":"Puffs n Rolls","price":"₹150–250"},{"name":"Food Plaza","price":"₹200–350"}],
+      "high": [{"name":"Spice It","price":"₹400–800"},{"name":"House of Flavours","price":"₹500–900"},{"name":"Express Dining","price":"₹600–1000"}]
+    },
+    "indira nagar": {
+      "low": [{"name":"Local Street Food","price":"₹80–150"},{"name":"Tea & Snacks","price":"₹50–100"},{"name":"Snack Point","price":"₹100–150"}],
+      "medium": [{"name":"Food Plaza","price":"₹200–300"},{"name":"Veg Delight","price":"₹250–400"},{"name":"Utsav Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"The Sidewalk","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "cidco": {
+      "low": [{"name":"Street Food Vendors","price":"₹80–150"},{"name":"Snack Corner","price":"₹100–150"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Hotel Express Inn","price":"₹300–500"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Family Dining","price":"₹250–400"}],
+      "high": [{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"}]
+    },
+    "satpur": {
+      "low": [{"name":"Worker Canteen","price":"₹80–150"},{"name":"Street Food","price":"₹50–120"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Industrial Canteen","price":"₹150–300"},{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Family Dhaba","price":"₹250–400"}],
+      "high": [{"name":"Hotel Express Dining","price":"₹400–700"},{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Restaurant","price":"₹600–1000"}]
+    },
+    "ambad": {
+      "low": [{"name":"Street Vendors","price":"₹80–150"},{"name":"Snack Corner","price":"₹100–150"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Hotel Ambad","price":"₹200–350"},{"name":"Veg Restaurant","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"Premium Dining","price":"₹600–1000"}]
+    },
+    "pathardi phata": {
+      "low": [{"name":"Street Food","price":"₹80–150"},{"name":"Snack Stall","price":"₹100–150"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Family Dhaba","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "adgaon": {
+      "low": [{"name":"Street Food Stalls","price":"₹80–150"},{"name":"Tea Shops","price":"₹50–100"},{"name":"Local Snacks Center","price":"₹100–150"}],
+      "medium": [{"name":"Family Dhaba","price":"₹200–350"},{"name":"Veg Restaurant","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Highway Restaurant","price":"₹400–700"},{"name":"Premium Dining","price":"₹500–900"},{"name":"Spice Route","price":"₹500–900"}]
+    },
+    "mhasrul": {
+      "low": [{"name":"Local Food Stalls","price":"₹80–150"},{"name":"Tea Point","price":"₹50–100"},{"name":"Snack Corner","price":"₹100–150"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Family Dining","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Garden Restaurant","price":"₹400–700"},{"name":"Premium Dining","price":"₹500–900"},{"name":"Resort Dining","price":"₹600–1000"}]
+    },
+    "wadala gaon": {
+      "low": [{"name":"Street Food","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Snack Vendors","price":"₹100–150"}],
+      "medium": [{"name":"Local Dhaba","price":"₹200–350"},{"name":"Veg Restaurant","price":"₹250–400"},{"name":"Family Dining","price":"₹250–400"}],
+      "high": [{"name":"Premium Dhaba","price":"₹400–700"},{"name":"Spice Route","price":"₹500–900"},{"name":"Garden Restaurant","price":"₹500–800"}]
+    },
+    "untwadi": {
+      "low": [{"name":"Street Snacks","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Fast Food Cart","price":"₹100–150"}],
+      "medium": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Cafe Corner","price":"₹250–400"},{"name":"Family Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Sidewalk","price":"₹600–1000"}]
+    },
+    "govind nagar": {
+      "low": [{"name":"Street Food Vendors","price":"₹80–150"},{"name":"Snack Corner","price":"₹100–150"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Food Plaza","price":"₹250–400"},{"name":"Family Dining","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "chetna nagar": {
+      "low": [{"name":"Street Snacks","price":"₹80–150"},{"name":"Tea Point","price":"₹50–100"},{"name":"Fast Food Cart","price":"₹100–150"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Food Plaza","price":"₹250–400"},{"name":"Family Dining","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "upanagar": {
+      "low": [{"name":"Street Food","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Snack Vendors","price":"₹100–150"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Family Dining","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Premium Dhaba","price":"₹400–700"},{"name":"Spice Route","price":"₹500–900"},{"name":"Garden Restaurant","price":"₹500–800"}]
+    },
+    "parijat nagar": {
+      "low": [{"name":"Street Snacks","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Fast Food Cart","price":"₹100–150"}],
+      "medium": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Cafe Corner","price":"₹250–400"},{"name":"Family Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"The Sidewalk","price":"₹600–1000"}]
+    },
+    "rajiv nagar": {
+      "low": [{"name":"Street Food Vendors","price":"₹80–150"},{"name":"Snack Corner","price":"₹100–150"},{"name":"Tea Stall","price":"₹50–100"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Food Plaza","price":"₹250–400"},{"name":"Family Dining","price":"₹300–500"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "garware point": {
+      "low": [{"name":"Street Snacks","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Snack Vendors","price":"₹100–150"}],
+      "medium": [{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"The Cobble Street","price":"₹300–500"},{"name":"Veg Restaurant","price":"₹200–350"}],
+      "high": [{"name":"Little Italy","price":"₹600–1000"},{"name":"Spice Route","price":"₹500–900"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    },
+    "chandwad": {
+      "low": [{"name":"Hotel Salim Tea","price":"₹100–200"},{"name":"Mira Food Hub","price":"₹100–200"},{"name":"Bhairavnath Hotel","price":"₹100–200"}],
+      "medium": [{"name":"Hotel Rajshri","price":"₹200–400"},{"name":"Hotel Shivsagar","price":"₹200–400"},{"name":"Runvey Cafe","price":"₹200–400"}],
+      "high": [{"name":"Highway Garden Restaurant","price":"₹400–700"},{"name":"Family Dining Hall","price":"₹400–600"},{"name":"Premium Dhaba","price":"₹500–800"}]
+    },
+    "sinnar": {
+      "low": [{"name":"Local Snacks Center","price":"₹80–150"},{"name":"Tea Stalls","price":"₹50–100"},{"name":"Small Dhaba","price":"₹100–150"}],
+      "medium": [{"name":"Hotel Shivsagar","price":"₹200–350"},{"name":"Family Restaurant","price":"₹250–400"},{"name":"Sinnar Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Highway Garden Restaurant","price":"₹400–700"},{"name":"Premium Dhaba","price":"₹500–800"},{"name":"Resort Dining","price":"₹600–900"}]
+    },
+    "dindori": {
+      "low": [{"name":"Temple Bhojanalay","price":"₹50–150"},{"name":"Street Food","price":"₹50–120"},{"name":"Local Hotel","price":"₹80–150"}],
+      "medium": [{"name":"Veg Hotel","price":"₹150–300"},{"name":"Dindori Family Restaurant","price":"₹200–350"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Highway Restaurant","price":"₹300–500"},{"name":"Garden Restaurant","price":"₹400–700"},{"name":"Resort Dining","price":"₹500–800"}]
+    },
+    "igatpuri": {
+      "low": [{"name":"Local Dhaba","price":"₹100–200"},{"name":"Railway Food Stall","price":"₹80–150"},{"name":"Street Snacks","price":"₹50–120"}],
+      "medium": [{"name":"Manas Restaurant","price":"₹250–400"},{"name":"Hotel Ashwin","price":"₹200–350"},{"name":"Hill View Restaurant","price":"₹300–500"}],
+      "high": [{"name":"Resort Dining","price":"₹500–900"},{"name":"Rainforest Resort Restaurant","price":"₹600–1000"},{"name":"JenJon Lake Resort","price":"₹700–1200"}]
+    },
+    "default": {
+      "low": [{"name":"Local Street Food","price":"₹80–150"},{"name":"Tea Stall","price":"₹50–100"},{"name":"Snack Corner","price":"₹100–150"}],
+      "medium": [{"name":"Veg Restaurant","price":"₹200–350"},{"name":"Family Dining","price":"₹250–400"},{"name":"Food Plaza","price":"₹200–300"}],
+      "high": [{"name":"Spice Route","price":"₹500–900"},{"name":"Premium Dining","price":"₹600–1000"},{"name":"Barbeque Ville","price":"₹700–1200"}]
+    }
+  },
+  "byPlace": {
+    "sula": [{"name":"Baracco Alfresco","price":"₹500–900"},{"name":"Krave Restaurant & Lounge","price":"₹400–800"},{"name":"Amber Multi-Cuisine Restaurant","price":"₹300–700"}],
+    "soma": [{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"The Cobble Street","price":"₹300–500"},{"name":"Baracco Restaurant","price":"₹500–900"}],
+    "york": [{"name":"Baracco Restaurant","price":"₹500–900"},{"name":"The Cobble Street","price":"₹300–500"},{"name":"Sadhana Restaurant","price":"₹250–400"}],
+    "saptashringi": [{"name":"Temple Bhojanalay","price":"₹80–150"},{"name":"Local Veg Hotel","price":"₹150–250"},{"name":"Small Dhaba","price":"₹150–300"}],
+    "muktidham": [{"name":"Udupi Tadka The Marion","price":"₹200–400"},{"name":"Hotel Spicy Tadkaa","price":"₹200–400"},{"name":"Local Veg Restaurant","price":"₹150–300"}],
+    "kalaram": [{"name":"Shree Rajbhog Thali","price":"₹200–400"},{"name":"Krishna Leela Pure Veg","price":"₹200–400"},{"name":"Annapoorna Bhojanalay","price":"₹100–200"}],
+    "navshya": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Divtya Budhlya Wada","price":"₹250–400"},{"name":"Local Eateries","price":"₹100–200"}],
+    "kapaleshwar": [{"name":"Annapoorna","price":"₹100–200"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Street Food","price":"₹80–150"}],
+    "someshwar": [{"name":"Balaji Gokul Misal","price":"₹80–150"},{"name":"Amar's Pure Veg","price":"₹200–400"},{"name":"Utsav Fine Dine","price":"₹300–600"}],
+    "iskcon": [{"name":"Veg Delight","price":"₹200–350"},{"name":"Rasoi Restaurant","price":"₹200–350"},{"name":"Hariyali Restaurant","price":"₹150–300"}],
+    "trimbak": [{"name":"Shree Krishna Pure Veg","price":"₹100–200"},{"name":"Pangat Bhojanalaya","price":"₹100–200"},{"name":"Om Gurudev Dining Hall","price":"₹150–250"}],
+    "chandreshwar": [{"name":"Temple Bhojanalay","price":"₹80–150"},{"name":"Local Dhaba","price":"₹150–300"},{"name":"Highway Restaurant","price":"₹200–400"}],
+    "renuka": [{"name":"Temple Bhojanalay","price":"₹80–150"},{"name":"Local Dhaba","price":"₹150–300"},{"name":"Highway Restaurant","price":"₹200–400"}],
+    "ichhapurti": [{"name":"Temple Bhojanalay","price":"₹80–150"},{"name":"Local Dhaba","price":"₹150–300"},{"name":"Highway Restaurant","price":"₹200–400"}],
+    "anjneri": [{"name":"Roadside Stalls","price":"₹50–150"},{"name":"Hills & Heaven Restaurant","price":"₹200–400"},{"name":"Trimbak Dhabas","price":"₹150–300"}],
+    "brahmagiri": [{"name":"Local Bhojanalay","price":"₹100–200"},{"name":"Dhaba","price":"₹200–400"},{"name":"Small Veg Hotel","price":"₹150–300"}],
+    "harihar": [{"name":"Village Food","price":"₹100–200"},{"name":"Highway Dhaba","price":"₹150–300"},{"name":"Local Stalls","price":"₹80–150"}],
+    "mangi": [{"name":"Temple Bhojanalay","price":"₹80–150"},{"name":"Local Veg Hotel","price":"₹150–250"},{"name":"Dhaba","price":"₹200–300"}],
+    "tringalwadi": [{"name":"Highway Dhaba","price":"₹150–300"},{"name":"Village Meals","price":"₹100–200"},{"name":"Small Restaurant","price":"₹200–350"}],
+    "dugarwadi": [{"name":"Hari Om Dhaba","price":"₹200–400"},{"name":"Trimurthy Bhojanalaya","price":"₹100–180"},{"name":"Snack Vendors","price":"₹50–150"}],
+    "someshwar_fall": [{"name":"Balaji Gokul Misal","price":"₹80–150"},{"name":"Amar's Restaurant","price":"₹200–400"},{"name":"Utsav Fine Dine","price":"₹300–600"}],
+    "gangapurdam": [{"name":"MTDC Snacks","price":"₹80–150"},{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"The Cobble Street","price":"₹300–500"}],
+    "pandavleni": [{"name":"Street Food Stalls","price":"₹50–150"},{"name":"Puffs n Rolls","price":"₹150–250"},{"name":"Hotel Swaraj","price":"₹200–300"}],
+    "coinmuseum": [{"name":"Veg Aroma","price":"₹200–350"},{"name":"Sadhana Restaurant","price":"₹250–400"},{"name":"Local Stalls","price":"₹100–200"}],
+    "artillery": [{"name":"Hotel Spicy Tadkaa","price":"₹200–400"},{"name":"Udupi Tadka","price":"₹200–400"},{"name":"Local Eateries","price":"₹150–300"}],
+    "jainmandir": [{"name":"Annapoorna","price":"₹100–200"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Street Food","price":"₹80–150"}],
+    "rangmahal": [{"name":"Local Veg Hotel","price":"₹150–300"},{"name":"Highway Dhaba","price":"₹200–350"},{"name":"Temple Bhojanalay","price":"₹80–150"}],
+    "deolali": [{"name":"Udupi Tadka","price":"₹200–400"},{"name":"Hotel Spicy Tadkaa","price":"₹200–400"},{"name":"Rasoi Restaurant","price":"₹200–350"}],
+    "sitagumpha": [{"name":"Annapoorna Bhojanalay","price":"₹100–200"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Shree Rajbhog Thali","price":"₹200–400"}],
+    "ramkund": [{"name":"Annapoorna Bhojanalay","price":"₹100–200"},{"name":"Veg Aroma","price":"₹200–350"},{"name":"Divtya Budhlya Wada","price":"₹250–400"}],
+    "gangaghat": [{"name":"Annapoorna","price":"₹100–200"},{"name":"Local Street Food","price":"₹80–150"},{"name":"RadhaKrishna Restaurant","price":"₹400–700"}],
+    "citymall": [{"name":"Food Court","price":"₹200–400"},{"name":"Barbeque Ville","price":"₹700–1200"},{"name":"Spice Route","price":"₹500–900"}],
+    "infantjesus": [{"name":"Rasoi Restaurant","price":"₹200–350"},{"name":"Hariyali Restaurant","price":"₹150–300"},{"name":"Local Eateries","price":"₹100–200"}],
+    "nandur": [{"name":"Village Meals","price":"₹100–250"},{"name":"Highway Dhaba","price":"₹150–300"},{"name":"Local Stalls","price":"₹80–150"}]
+  }
+}
